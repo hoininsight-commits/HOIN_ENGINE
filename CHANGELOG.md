@@ -5,4 +5,5 @@
 - Initial Airtable Schema Definition (`docs/Airtable_Structure.md`).
 - Make.com Project Structure (`docs/Make_Structure.md`).
 - Metric ID Rules (`rules/metric_id_rules.md`).
+- Data Collection Master List (`docs/DATA_COLLECTION_MASTER.md`) with 23 initial sources.
 - Git repository initialization.
